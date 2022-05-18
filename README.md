@@ -3,7 +3,7 @@
 <!--
 **themavencoder/themavencoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I love to explore the seemingly random connections between different fields. With a profound interest in biomedicine, software development and machine learning, as well as leadership, relationships, psychology, history and philosophy. 
+- 🔭 I love to explore the seemingly random connections between different fields. With a profound interest in biomedicine, software development and machine learning, as well as leadership, relationships, disabilities, psychology, history and philosophy. 
 
 - 🌱 This I am sure: [Terrence Tao](https://terrytao.wordpress.com/) is immortal. How can I man with such level of eggheadedness and demureness be confided in this physical realm alone? Stupendously incredulous! 😄 
 
