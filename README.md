@@ -5,7 +5,7 @@
 -->
 - 🔭 I love to explore the seemingly random connections between different fields. With a profound interest in biomedicine, software development and machine learning, as well as leadership, relationships, disabilities, psychology, history and philosophy. 
 
-- 🌱 This I am sure: [Terrence Tao](https://terrytao.wordpress.com/) is immortal. How can I man with such level of eggheadedness and demureness be confided in this physical realm alone? Stupendously incredulous! 😄 
+- 🌱 This I am sure: [Terrence Tao](https://terrytao.wordpress.com/) is immortal. How can a man with such level of eggheadedness and demureness be confided in this physical realm alone? Stupendously incredulous! 😄 
 
 - 🎓 I am currently in graduate school pursuing a doctorate in Biomedical Engineering at [UIChicago](https://www.uic.edu/).
 
